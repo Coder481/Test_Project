@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "475850497169",
+    "project_id": "image-edgedetection",
+    "storage_bucket": "image-edgedetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475850497169:android:61213b5593caa5b6edb330",
+        "android_client_info": {
+          "package_name": "com.hrithik.image_edge_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475850497169-404sljaabqr1khkqi7idash1eev07ifl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJezuURbgSpf3j45Ki8h8NlJKMF1zTbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475850497169-404sljaabqr1khkqi7idash1eev07ifl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475850497169:android:2327c5260349e7fdedb330",
+        "android_client_info": {
+          "package_name": "com.hrithik.image_edgedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475850497169-404sljaabqr1khkqi7idash1eev07ifl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJezuURbgSpf3j45Ki8h8NlJKMF1zTbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475850497169-404sljaabqr1khkqi7idash1eev07ifl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475850497169:android:3a249ab8b7c673afedb330",
+        "android_client_info": {
+          "package_name": "com.hrithik.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475850497169-404sljaabqr1khkqi7idash1eev07ifl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJezuURbgSpf3j45Ki8h8NlJKMF1zTbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475850497169-404sljaabqr1khkqi7idash1eev07ifl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
